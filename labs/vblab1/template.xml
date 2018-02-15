@@ -1,8 +1,14 @@
 <?xml version="1.0"?>
-<learningObject editorVersion="3" targetFolder="Nottingham" name="Automated Deployment of Virtual Machines" language="en-GB" navigation="Linear" textSize="12" theme="flatblue" displayMode="fill window" responsive="true"><title linkID="PG1518627352560" name="" size="30"><![CDATA[<p>&nbsp;</p>
+<learningObject editorVersion="3" targetFolder="Nottingham" name="Automated Deployment of Virtual Machines - Part 1" language="en-GB" navigation="Linear" textSize="12" theme="flatblue" displayMode="fill window" responsive="true"><text linkID="PG1518687476120" name="Home"><![CDATA[<p>&nbsp;</p>
 
-<p>Automated Deployment of Virtual Machines</p>
-]]></title><text linkID="PG1518375664988" name="Download and Install Oracle VirtualBox"><![CDATA[<p><strong>Step 1:&nbsp;&nbsp; &nbsp;Download and Install Oracle VirtualBox</strong></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><span style="font-size:36px;">Automated Deployment of Virtual Machines - Part 1</span></p>
+]]></text><text linkID="PG1518375664988" name="Download and Install Oracle VirtualBox"><![CDATA[<p><strong>Step 1:&nbsp;&nbsp; &nbsp;Download and Install Oracle VirtualBox</strong></p>
 
 <p>&nbsp;</p>
 
@@ -16,7 +22,7 @@
 </ul>
 
 <p>When installing accept all default options and prompts.</p>
-]]></text><text linkID="PG1518627713883" name="&lt;strong&gt;Configure Oracle VirtualBox Preferences&lt;/strong&gt;"><![CDATA[<p><strong>Step 2:&nbsp;&nbsp; &nbsp;Configure Oracle VirtualBox Preferences</strong></p>
+]]></text><text linkID="PG1518627713883" name="Configure Oracle VirtualBox Preferences"><![CDATA[<p><strong>Step 2:&nbsp;&nbsp; &nbsp;Configure Oracle VirtualBox Preferences</strong></p>
 
 <p>To optimise the installation of Oracle VirtualBox so that we can efficiently use all available hard drive space on our computer it is recommended that we change the default location for all newly created virtual machines.</p>
 
