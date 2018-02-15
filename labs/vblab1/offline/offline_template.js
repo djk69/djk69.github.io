@@ -1,6 +1,6 @@
 dataxmlstr = hereDoc(function(){/*!
 
-<learningObject editorVersion="3" targetFolder="Nottingham" name="Automated Deployment of Virtual Machines - Part 1" language="en-GB" navigation="Linear" textSize="12" theme="flatblue" displayMode="fill window" responsive="true"><text linkID="PG1518687476120" name="Home"><![CDATA[<p>&nbsp;</p>
+<learningObject editorVersion="3" targetFolder="Nottingham" name="Automated Deployment of Virtual Machines - Part 1" language="en-GB" navigation="Linear" textSize="12" theme="flatblue" displayMode="fill window" responsive="true"><text linkID="PG1518375664988" name="Home"><![CDATA[<p>.</p>
 
 <p>&nbsp;</p>
 
@@ -9,7 +9,7 @@ dataxmlstr = hereDoc(function(){/*!
 <p>&nbsp;</p>
 
 <p style="text-align: center;"><span style="font-size:36px;">Automated Deployment of Virtual Machines - Part 1</span></p>
-]]></text><text linkID="PG1518375664988" name="Download and Install Oracle VirtualBox"><![CDATA[<p><strong>Step 1:&nbsp;&nbsp; &nbsp;Download and Install Oracle VirtualBox</strong></p>
+]]></text><text linkID="PG1518688260292" name="Download and Install Oracle VirtualBox"><![CDATA[<p><strong>Step 1:&nbsp;&nbsp; &nbsp;Download and Install Oracle VirtualBox</strong></p>
 
 <p>&nbsp;</p>
 
